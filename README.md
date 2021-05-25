@@ -16,10 +16,15 @@ Langkah langkah :
 
 # Tampilan desain database (CDM / PDM / ERD)
 
+#CDM
 <img width="960" alt="CDM" src="https://user-images.githubusercontent.com/83754006/119484858-a1073600-bd80-11eb-86f9-bc30961fcc39.png">
-<img width="960" alt="erd" src="https://user-images.githubusercontent.com/83754006/119484889-a95f7100-bd80-11eb-969a-2b7f8333e599.png">
+#PDM
 <img width="960" alt="PDM" src="https://user-images.githubusercontent.com/83754006/119484902-aebcbb80-bd80-11eb-8de0-dd1578691600.png">
+#ERD
+<img width="960" alt="erd" src="https://user-images.githubusercontent.com/83754006/119484889-a95f7100-bd80-11eb-969a-2b7f8333e599.png">
 
 
 # tampilan index
-<img src="home.PNG" alt="Girl in a jacket" width="500" height="600">
+<img width="960" alt="tabel part 1" src="https://user-images.githubusercontent.com/83754006/119485107-e461a480-bd80-11eb-85d9-6c9b3581ec47.png">
+<img width="960" alt="tabel part 2" src="https://user-images.githubusercontent.com/83754006/119485123-e7f52b80-bd80-11eb-8ccd-62869af40923.png">
+
