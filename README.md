@@ -16,7 +16,9 @@ Langkah langkah :
 
 # Tampilan desain database (CDM / PDM / ERD)
 
-<img src="Capture.PNG" alt="Girl in a jacket" width="600" height="400">
+<img width="960" alt="CDM" src="https://user-images.githubusercontent.com/83754006/119484858-a1073600-bd80-11eb-86f9-bc30961fcc39.png">
+<img width="960" alt="erd" src="https://user-images.githubusercontent.com/83754006/119484889-a95f7100-bd80-11eb-969a-2b7f8333e599.png">
+<img width="960" alt="PDM" src="https://user-images.githubusercontent.com/83754006/119484902-aebcbb80-bd80-11eb-8de0-dd1578691600.png">
 
 
 # tampilan index
