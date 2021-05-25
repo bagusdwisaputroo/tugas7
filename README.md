@@ -2,6 +2,8 @@
 praktikum basis data / tugas 7 pertemuan 9
 
 # Menampilkan-join-tabel
+<img width="960" alt="join" src="https://user-images.githubusercontent.com/83754006/119484656-6dc4a700-bd80-11eb-8f49-e095b67c5d89.png">
+
 Langkah langkah : 
 
 1. buat tabel faktur
