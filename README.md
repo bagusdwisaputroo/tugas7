@@ -1,7 +1,7 @@
 # tugas7
 praktikum basis data / tugas 7 pertemuan 9
 
-# Menampilkn-join-tabel
+# Menampilkan-join-tabel
 Langkah langkah : 
 
 1. buat tabel faktur
